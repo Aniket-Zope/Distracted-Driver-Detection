@@ -25,6 +25,19 @@ With the understanding of the problem statement and several brainstorming sessio
 
 Above models are initially trained over normal data splitting but, after we encountered the issue of data leaking. So, data is splitted over driver IDs to avoid appearance ot the same same driver in two or more splits. Afterwards trained above models again to encounter the data leaking issue.
 
+Tools and Libraries Used:
+1. Python: Programming language used for implementing the code.
+2. PyTorch: Deep learning framework for building and training neural networks.  
+3. TensorFlow: Deep learning framework for building and training neural networks. 
+4. Keras: High-level neural networks API running on top of TensorFlow. 
+5. NumPy: Library for numerical computations and array operations. 
+6. Pandas: Library for data manipulation and analysis. 
+7. Scikit-learn: Library for machine learning algorithms and evaluation metrics. 
+8. OpenCV: Library for computer vision tasks, such as image preprocessing and manipulation. 
+9. Matplotlib: Library for data visualization and plotting. 
+10. Jupyter Notebook: Interactive environment used for code development and experimentation. 
+11. Kaggle Notebook: Cloud-based notebook environment provided by Kaggle for running code and exploring datasets, etc. 
+
 
 
 
