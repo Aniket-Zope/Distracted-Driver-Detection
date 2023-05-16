@@ -1,4 +1,7 @@
-# Distracted-Driver-Detection
+Term Project - Image Processing with Machine Learning (DA 526)
+
+## Distracted-Driver-Detection
+
 A collection of models for distracted driver detection using PCA + KNN, Autoencoder + KNN, Custom CNNs, VGG16, RESNET, and MobileNET.
 
 Aim : To detect if the car driver is driving safely or performing any activity that might result in an accident or any harm to others.
